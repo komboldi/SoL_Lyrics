@@ -1,0 +1,1 @@
+start SoL_Lyrics[TXT].txt

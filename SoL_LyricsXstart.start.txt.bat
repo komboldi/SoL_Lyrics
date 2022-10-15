@@ -1,0 +1,1 @@
+start SoL_LyricsXstart.[TXT].bat
